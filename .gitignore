@@ -1,0 +1,22 @@
+# .NET build files
+bin/
+obj/
+
+# macOS
+.DS_Store
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# Local NuGet packages
+packages/
+
+# Local configuration / secrets
+appsettings.json
+appsettings.Development.json
+
+# User-specific files
+*.user
+*.suo
